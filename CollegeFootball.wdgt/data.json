@@ -155,13 +155,12 @@
     "2692":	{"name":"Weber State", "id":2692, "color":"18005a"}
 },
 "Big South": {
-    "2127":	{"name":"Charleston Southern", "id":2127, "color":"2e3192"},
-    "324":	{"name":"Coastal Carolina", "id":324, "color":"59a0a0"},
-    "2241":	{"name":"Gardner Webb", "id":2241, "color":"CF0000"},
-    "2335":	{"name":"Liberty", "id":2335, "color":"000073"},
+    "2127": {"name":"Charleston Southern", "id":2127, "color":"2e3192"},
+    "338":  {"name":"Kennesaw State", "id":338, "color":"FFCC00"},
+    "2241": {"name":"Gardner-Webb", "id":2241, "color":"CF0000"},
+    "2335": {"name":"Liberty", "id":2335, "color":"000073"},
     "2506": {"name":"Presbyterian", "id":2506, "color":"003372"},
-    "2619":	{"name":"Stony Brook", "id":2619, "color":"003559"},
-    "2678":	{"name":"Virginia Military Institue", "id":2678, "color":"000000"}
+    "2405": {"name":"Monmouth", "id":2405, "color":"003366"}
 },
 "CAA": {
     "48":	{"name":"Delaware", "id":48, "color":"285998"},
